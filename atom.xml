@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://budanzixun.github.io</id>
+    <title>补单资讯网</title>
+    <updated>2020-08-22T13:42:11.565Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://budanzixun.github.io"/>
+    <link rel="self" href="http://budanzixun.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://budanzixun.github.io/images/avatar.png</logo>
+    <icon>http://budanzixun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 补单资讯网</rights>
+    <entry>
+        <title type="html"><![CDATA[飞鱼购平台 - 商家注册地址]]></title>
+        <id>http://budanzixun.github.io/post/飞鱼购/</id>
+        <link href="http://budanzixun.github.io/post/飞鱼购/">
+        </link>
+        <updated>2020-08-22T13:36:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重点推荐【小辣椒平台】青芒果/小树苗新站点]]></title>
+        <id>http://budanzixun.github.io/post/小辣椒平台/</id>
+        <link href="http://budanzixun.github.io/post/小辣椒平台/">
+        </link>
+        <updated>2020-08-22T13:13:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重点推荐【甜西瓜平台】—最新渠道资源，质量安全性高!]]></title>
+        <id>http://budanzixun.github.io/post/甜西瓜平台/</id>
+        <link href="http://budanzixun.github.io/post/甜西瓜平台/">
+        </link>
+        <updated>2020-08-22T12:16:53.000Z</updated>
+    </entry>
+</feed>
