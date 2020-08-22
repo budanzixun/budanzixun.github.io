@@ -2119,11 +2119,11 @@ body {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f9fe;
+      background: #1864abfe;
     }
 
     .nav-item:hover {
-      background: #f9f9f9fe;
+      background: #1864abfe;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2171,10 +2171,10 @@ body {
       background: #3bc9dbfe;
     }
     .main-title, .brand {
-      color: #FFF !important;
+      color: #364fc7 !important;
     }
     .mist .site-title i {
-      background: #FFFFFFfe;
+      background: #364fc7fe;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
