@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://budanzixun.github.io</id>
     <title>补单资讯网</title>
-    <updated>2020-08-22T13:52:02.237Z</updated>
+    <updated>2020-08-22T14:21:50.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://budanzixun.github.io"/>
     <link rel="self" href="http://budanzixun.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>http://budanzixun.github.io/images/avatar.png</logo>
     <icon>http://budanzixun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 补单资讯网</rights>
+    <entry>
+        <title type="html"><![CDATA[韵客V8联盟平台-淘宝 京东 拼多多 1688 电商放单补单平台]]></title>
+        <id>http://budanzixun.github.io/post/韵客V8联盟/</id>
+        <link href="http://budanzixun.github.io/post/韵客V8联盟/">
+        </link>
+        <updated>2020-08-22T14:07:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人气圈平台-最安全的补单系统]]></title>
+        <id>http://budanzixun.github.io/post/人气圈/</id>
+        <link href="http://budanzixun.github.io/post/人气圈/">
+        </link>
+        <updated>2020-08-22T14:00:22.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[飞鱼购平台 - 商家注册地址]]></title>
         <id>http://budanzixun.github.io/post/飞鱼购/</id>
